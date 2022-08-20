@@ -40,7 +40,7 @@
   width: 100%;
   height: 100%;
   z-index: 9999999;
-  background: #fff;
+  background: red;
   overflow: hidden;
 }
 #loader {
