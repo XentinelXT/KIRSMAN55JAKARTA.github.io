@@ -1,0 +1,8 @@
+	<!-- ===================================================
+				Loading Transition
+			==================================================== -->
+			<div id="loader-wrapper">
+				<div id="loader"></div>
+			</div>
+
+            $untuk LombaSP
